@@ -1,0 +1,1 @@
+<h4>¡Bienvenido al Sistema {{$user}}!</h4>
